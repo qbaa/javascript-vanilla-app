@@ -1,4 +1,4 @@
 # javascript-vanilla-app
 
-*npm install
-*webpack-dev-server
+* npm install
+* webpack-dev-server
